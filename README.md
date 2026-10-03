@@ -148,3 +148,5 @@ Team Salesforce Project
 ## Platform
 
 **Salesforce**
+
+*Thank you*
